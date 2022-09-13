@@ -1,5 +1,5 @@
 {
-  "name": "Stefanie-whatsapp-bot-md",
+  "name": "Ali-KIng-bot-md",
   "version": "4.0.1",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "stefanie.js",
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Mr.White Shadow",
+  "author": "Mr.Ali Mirza",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whiteshadowofficial/STEFANIE-BOT-MD.git"
+    "url": "git+https://chat.whatsapp.com/LcuFKx1vlu8LIofBOU3ML0"
   },
   "bugs": {
-    "url": "https://github.com/whiteshadowofficial/STEFANIE-BOT-MD/issues"
+    "url": "https://chat.whatsapp.com/LcuFKx1vlu8LIofBOU3ML0/issues"
   },
-  "homepage": "https://github.com/whiteshadowofficial/STEFANIE-BOT-MD#readme"
+  "homepage": "https://chat.whatsapp.com/LcuFKx1vlu8LIofBOU3ML0#readme"
 }
